@@ -1,21 +1,41 @@
-# Hi, I'm Jose Quevedo 👋
+<h1 align="center">Hey, I'm Jose Quevedo 👋</h1>
 
-**Systems Developer & Founder at Verity Protocol**  
-Focused on low-level system integrity, cryptographic attestation, and hardware-enforced trust models.
+<p align="center">
+  <code><b>$ CEO & Founder @ Verity Protocol</b></code>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joserquevedov/"><img src="https://img.shields.io/badge/CEO-Verity_Protocol-10B981?style=for-the-badge&logoColor=white" alt="Verity Protocol"></a>
+  <a href="https://www.quevedojose.com/"><img src="https://img.shields.io/badge/Systems-Developer-0284C7?style=for-the-badge&logoColor=white" alt="Systems Developer"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hardware-Security-6366F1?style=for-the-badge&logoColor=white" alt="Hardware Security"></a>
+</p>
+
+<p align="center">
+  <i>Architecting zero-moment cryptographic lineage and silicon-level attestation frameworks.</i>
+</p>
 
 ---
 
 ### 💡 Core Focus & Research
 * 🔐 **Hardware-Level Attestation:** TEEs, DMA isolation, and silicon-based cryptographic signatures.
-* 🛡️ **Data Lineage:** Perceptual hashing and zero-moment authenticity frameworks.
-* ⚡ **Systems Engineering:** Building lightweight, secure SDKs in C/Rust & Python ecosystems.
+* 🛡️ **Data Lineage:** Perceptual hashing, C2PA integrations, and zero-moment authenticity.
+* ⚡ **Systems Engineering:** High-performance tooling, MCP servers, and secure SDK architectures.
 
 ---
 
-### 🚀 Projects
-* **[Verity Protocol](#)** — A cryptographic framework ensuring data lineage from the exact moment of capture.
-* **DevLens** — Developer tooling & intelligence integration using Google Gemini API.
+### 🚀 Key Projects
+* **Verity Protocol** — Proof of origin before the first pixel exists. Hardware-enforced cryptographic trust.
+* **[MCP-Builder-Munichtech](https://github.com/Josequevedov08/MCP-Builder-Munichtech)** — Model Context Protocol builder setup for low-level development workflows and context management.
 * **Arka** — Secure digital vault interface with local-first encryption architecture.
+
+---
+
+### 🛠️ Stack I live in
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,fastapi,react,tailwind,docker,linux,git,github,vscode" />
+  </a>
+</p>
 
 ---
 
@@ -27,6 +47,7 @@ Focused on low-level system integrity, cryptographic attestation, and hardware-e
 
 ---
 
-### 📬 Connect
-* **LinkedIn:** [linkedin.com/in/joserquevedov](https://www.linkedin.com/in/joserquevedov/)
-* **Website:** [quevedojose.com](https://www.quevedojose.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/joserquevedov/">LinkedIn</a> •
+  <a href="https://www.quevedojose.com/">Website</a>
+</p>
