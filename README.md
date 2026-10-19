@@ -28,4 +28,4 @@
 
 ### 🌐 Connect
 
-* [LinkedIn](https://linkedin.com) • [Website](https://verityprotocol.com)
+* [LinkedIn](https://linkedin.com) •
